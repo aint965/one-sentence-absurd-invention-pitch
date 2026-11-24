@@ -12,9 +12,9 @@ import os
 import sys
 
 PITCH = (
-    "A shower curtain that, the moment it tries to cling to your wet skin, "
-    "recoils like a startled cat, hisses softly, and retreats to its rail "
-    "until you have finished."
+    "A shower curtain that, the moment it clings to your wet skin, "
+    "puffs itself into a rigid little tent with a built-in fan and "
+    "stays inflated until the water stops."
 )
 
 
